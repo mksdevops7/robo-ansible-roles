@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.mksdevops.online
 REDIS_HOST: redis.mksdevops.online
+CATALOGUE_HOST: catalogue.mksdevops.online
