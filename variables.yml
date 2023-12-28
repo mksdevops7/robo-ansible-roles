@@ -2,3 +2,9 @@ MONGODB_HOST: mongodb.mksdevops.online
 REDIS_HOST: redis.mksdevops.online
 CATALOGUE_HOST: catalogue.mksdevops.online
 USER_HOST: user.mksdevops.online
+CART_HOST: cart.mksdevops.online
+SHIPPING_HOST: shipping.mksdevops.online
+PAYMENT_HOST: payment.mksdevops.online
+MYSQL_HOST: mysql.mksdevops.online
+RABBITMQ_HOST: rabbitmq.mksdevops.online
+DISPATCH_HOST: dispatch.mksdevops.online
